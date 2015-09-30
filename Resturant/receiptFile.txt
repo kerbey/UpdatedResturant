@@ -1,0 +1,4 @@
+0 initial price= 2.21
+1 quantity= 1.0 waffles(s)
+2 you purchased  small waffles for $2.21
+3 the description => a small sized waffles for 2.21
